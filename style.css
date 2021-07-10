@@ -1,0 +1,14 @@
+.main_para{
+    text-decoration: crimson;
+    box-shadow: crimson;
+    color: crimson;
+}
+.btn-success{
+    border-style: initial;
+}
+
+.user_name{
+    width: 5px;
+    border-style: dotted;
+}
+
